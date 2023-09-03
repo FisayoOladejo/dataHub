@@ -4,4 +4,4 @@
 #### Sales Analysis:
 #### Business Analysis:
 #### HR Analysis:
-![DataHub](C:\Users\DELL\Desktop\dataHub\Data-Vizualisation-924x512-1.png)
+![DataHub](![Alt text](Data-Vizualisation-924x512-1.png))
