@@ -1,6 +1,6 @@
 # Supper Store Analytical Report 
 ***
-##### _The Dashboard deep dive into the losses and profit, provide analytical solution to mitigate and improve profit margine. The super store data was analyzed to address the following;_
+##### _The analytic dashboard deep dive into the losses and profit, provide analytical solution to mitigate losses and improve profit margine. The super store data was analyzed to address the following;_
 * what are the total sales by segment.
 * what are the profit and sales in different regions.
 * what is the total quantity in different categories.
@@ -13,7 +13,7 @@
 
 ![superStore Analytical Report](superStoreAnalyticalReport.JPG)
 
-## Tools
+### Tools
 * PowerBi 
 * Excel 
 * SQL
