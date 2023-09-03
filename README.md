@@ -4,4 +4,4 @@
 ## Sales Analysis:
 ## Business Analysis:
 ## HR Analysis:
-(C:\Users\DELL\Desktop\dataAnalysis)
+![](C:\Users\DELL\Desktop\dataAnalysis)
