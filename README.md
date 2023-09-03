@@ -1,5 +1,4 @@
-# Data Mining 
-### Data Analysis
+# Data Mining || Analysis
 ### Sales Analytic Report
 ### HR Analytic Reports
 ### Business Analytic Report
