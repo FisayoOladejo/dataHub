@@ -1,4 +1,5 @@
-# text in blue Data Mining || Analysis
+# Data Mining || Analysis
+
 ***
 ### Sales Analytic Report
 ### HR Analytic Reports
