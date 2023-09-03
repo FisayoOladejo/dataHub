@@ -13,7 +13,7 @@
 
 ![superStore Analytical Report](superStoreAnalyticalReport.JPG)
 
-## Tool
+## Tools
 * PowerBi 
 * Excel 
 * SQL
